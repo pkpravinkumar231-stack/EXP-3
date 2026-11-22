@@ -1,11 +1,5 @@
 ## EXPERIMENT NO. 3 – STAIRCASE WIRING
 
-| **Name:** | | **Reg. No.:** | |
-|---|---|---|---|
-| **Date:** | | **Batch / Section:** | |
-
----
-
 ## AIM
 
 To control the status of the given lamp by using two-way switches.
@@ -47,7 +41,7 @@ To control the status of the given lamp by using two-way switches.
 
 ### Circuit diagram
 
-*[ Insert the direct connection circuit diagram here ]*
+![image alt](
 
 **Figure 1:** Staircase wiring – direct connection
 
